@@ -1,8 +1,8 @@
 # flask_uploads
 Transfer files to server by http using FLask
   
-- Configure settings at config.py: 
-DEVELOPMENT = True -- flag for dev enviroment 
+- Configure settings at config.py:   
+DEVELOPMENT = True -- flag for dev enviroment   
 SERVER_LOCAL = True -- flag for local running locally  
 SECRET_KEY = ''  -- key for webservice  
 CORS_HEADERS= 'Content-Type'  -- configure CORS  
